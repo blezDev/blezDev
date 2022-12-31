@@ -19,7 +19,7 @@ Hi 👋, I'm M Saikrishna Pattnaik, Android Developer and a opensource enthusias
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="[https://random-memer.herokuapp.com](https://meme-api.com/gimme)/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=blezDev&icon=0&color=0)](https://visitcount.itsvg.in)
