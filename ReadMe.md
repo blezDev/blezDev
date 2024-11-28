@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm M Saikrishna Pattnaik, Android Developer and a opensource enthusiast ☺️👍👍<br>🎓 I am a student of CSE<br>👀 I’m interested in coding, developing, gaming and reading<br>🌱 I’m currently pursuing CSE at GIET University, Gunupur, Odisha, India<br>💞️ I’m looking to contribute on Android Development
+Hi 👋, I'm M Saikrishna Pattnaik, Android Developer and a opensource enthusiast ☺️👍👍💞️ I’m looking to contribute on Android Development
 
 
 ## 🌐 Socials:
