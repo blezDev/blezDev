@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm M Saikrishna Pattnaik, Android Developer and a opensource enthusiast ☺️👍👍💞️<br> I’m looking to contribute on Android Development
+Hi 👋, I'm M Saikrishna Pattnaik, Android Developer and a opensource enthusiast ☺️👍👍<br>💞️ I’m looking to contribute on Android Development
 
 
 ## 🌐 Socials:
